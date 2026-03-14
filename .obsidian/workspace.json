@@ -123,18 +123,46 @@
             "id": "f1935a03f9a9790a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "龙虾安装/安装.md",
-                "bFile": "龙虾安装/安装.md",
-                "aRef": ""
+                "file": "skills/飞书.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 安装  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "飞书"
+            }
+          },
+          {
+            "id": "89712b701df1da0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "skills/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "6ad5cfee0091c137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026.03.14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026.03.14"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -306,38 +334,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1935a03f9a9790a",
+  "active": "6ad5cfee0091c137",
   "lastOpenFiles": [
-    "龙虾安装/启动.md",
+    "未命名.canvas",
+    "日记/2026.03.14.md",
+    "skills/未命名 1.md",
+    "超算平台模型API配置.md",
+    "Docker ARG vs ENV 详解.md",
+    "skills/未命名.md",
+    "skills/飞书.md",
+    "skills/飞书配置.md",
+    "skills/obsidian skills 安装.md",
+    "skills/keygen.md",
     "问题/系统策略.md",
-    "日记/2026.03.10.md",
+    "今日热点 2026-03-13.md",
     "claw.json理解.md",
+    "NapCat QQ机器人配置.md",
+    "蛋炒饭.md",
+    "skills/napcat-qq/scripts/qq-contact-search.js",
+    "skills/napcat-qq/agents/openai.yaml",
+    "skills/napcat-qq/SKILL.md",
+    "skills/napcat-qq/scripts",
+    "skills/napcat-qq/agents",
+    "skills/napcat-qq",
+    "Obsidian 使用方法.md",
+    "龙虾安装/启动.md",
+    "日记/2026.03.10.md",
     "用户.md",
     "📚 OpenClaw 知识库索引.md",
     "template/assets/PixPin_2026-03-12_00-05-07.png",
     "template/未命名.md",
     "template/日记模板.md",
-    "skills/obsidian skills 安装.md",
-    "skills/飞书.md",
     "龙虾安装/WSL安装.md",
     "龙虾安装/高级.md",
     "龙虾安装/安装.md",
-    "Obsidian 使用方法.md",
     "template/assets",
-    "skills/飞书配置.md",
-    "龙虾安装/可能需要的依赖/工具.md",
-    "skills/keygen.md",
     "龙虾安装/可能需要的依赖",
-    "skills/未命名.md",
-    "龙虾安装/基础知识.md",
     "问题",
-    "欢迎.md",
     "chanel",
-    "2026-03-10.md",
-    "日记",
-    "未命名.base",
-    "skills",
-    "template",
-    "龙虾安装"
+    "日记"
   ]
 }
